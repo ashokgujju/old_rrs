@@ -1,0 +1,3 @@
+ok,ok,ok,20,M,acer
+nokia,nokia,nokia,21,M,nokia
+qw,qw,qw,12,M,asdfk
